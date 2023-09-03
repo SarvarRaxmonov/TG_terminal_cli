@@ -1,4 +1,4 @@
 # TG_terminal_cli
 
 
-![logo](https://github-production-user-asset-6210df.s3.amazonaws.com/79727432/265280097-c7110281-20ca-426d-af81-7eea71127b2f.png)
+![logo](https://github-production-user-asset-6210df.s3.amazonaws.com/79727432/265280153-b8775a9d-747a-470f-940f-a0adedba558f.png)
